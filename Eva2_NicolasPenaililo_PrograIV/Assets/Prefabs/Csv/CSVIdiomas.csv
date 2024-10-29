@@ -1,6 +1,0 @@
-Lenguage/Word,id_1,id_2,id_3,id_4,id_5,id_6,id_7,id_8,id_9,id_10,id_11,id_12,id_13,id_14,id_15,id_16
-English ,AttackDamage,AbilityPower,Armor,MagicResistance,AttackSpeed,HabilityHaste,CriticalChance,MovementSpeed,HealthRegeneration,ManaRegeneration,ArmorPenetration,MagicPenetration,LifeSteal,SpellSteal,Range,Tenacity
-Spanish,DañodeAtaque,PoderdeHabilidad,Armadura,ResistenciaMágica,VelocidaddeAtaque,ReduccióndeEnfriamiento,ProbabilidaddeCrítico,VelocidaddeMovimiento,RegeneracióndeVida,RegeneracióndeManá,PenetracióndeArmadura,PenetraciónMágica,RobodeVida,RobodeHechizos,Rango,Tenacidad
-Chinese,攻击伤害,可变电源,装甲,魔法抗性,攻击速度,急速,致命几率,移动速度,健康再生,法力值再生,护甲穿透,魔法穿透,生命偷取,法术偷取,范围,韧性
-Japanese,攻撃ダメージ,ハビリティー・パワー,アーマー,魔法耐性,攻撃速度,ヘイスト,クリティカル確率,移動速度,体力回復,マナ回復,アーマー貫通,マジックペネトレーション,ライフスティール,スペルスティール,射程距離,粘り強さ
-Corean,공격 피해,능력치,갑옷,마법 저항,공격 속도,능력 가속,치명타 확률,이동 속도,체력 재생,마나 재생,방어구 관통력,마법 관통력,생명력 훔치기,주문 훔치기,범위,끈기
